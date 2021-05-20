@@ -14,9 +14,10 @@ I am  Web developer able to build a Web presence from the ground up - from conce
 I have excellent coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
-
-### Tools and Technology I know
+<pre>
+<strong>Tools and Technology I know</strong>
 Programming Language:   JavaScript, C++, Python </br>
 Web Technology:         Reactjs, Nodejs, PWA, Responsive Web Design </br>
 Tools:                  Git, Github, Heroku, Netlify, Firebase, MongoDB. </br>
 Others:                 Data Structure and Algorithm </br>
+</pre>
