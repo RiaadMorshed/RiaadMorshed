@@ -16,7 +16,7 @@ I have excellent coding skills, as well as an ability to convert requirements in
 </div>
 
 ### Tools and Technology I know
-Programming Language:   JavaScript, C++, Python
-Web Technology:         Reactjs, Nodejs, PWA, Responsive Web Design
-Tools:                  Git, Github, Heroku, Netlify, Firebase, MongoDB.
-Others:                 Data Structure and Algorithm
+Programming Language:   JavaScript, C++, Python </br>
+Web Technology:         Reactjs, Nodejs, PWA, Responsive Web Design </br>
+Tools:                  Git, Github, Heroku, Netlify, Firebase, MongoDB. </br>
+Others:                 Data Structure and Algorithm </br>
