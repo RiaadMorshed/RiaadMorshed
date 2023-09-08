@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm [Morshed](#)
-#Technologies
+<h1>Technologies</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,nodejs,express,dotnet,djanog,flask,git,github,postgress,mongodb,,react,redux,materialui,nextjs,tailwind,jest,nginx" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cs,nodejs,express,dotnet,django,flask,git,github,postgress,mongodb,react,redux,materialui,nextjs,tailwind,jest,nginx" />
   </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=riaadmorshed" alt="anandmainali" />
