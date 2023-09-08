@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Morshed](#)
 <h1>Technologies</h1>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,cs,nodejs,express,dotnet,django,flask,git,github,mongodb,react,redux,materialui,nextjs,tailwind,jest,nginx" />
   </a>
